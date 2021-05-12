@@ -4,7 +4,7 @@ const client = new Discord.Client();
 // const time = import("./getTimeFunc.mjs");
 //const handleReq = require("./handleRequests");
 
-client.login("ODMwMTE1ODg0ODE0NTY1Mzk4.YHB_qQ.DXjgamaC9qRSv9b5ql37p3eLQHs");
+client.login("");
 
 
 client.on("ready", on_Client_Ready);
